@@ -1,5 +1,14 @@
 # JetBrains files
 .idea
 
+# macOS files
+.DS_Store
+
 # Experiment images
 Exp-1/data
+
+# Jupyter files
+.ipynb_checkpoints
+
+# Slides
+Slides
